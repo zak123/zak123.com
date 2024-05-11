@@ -19,11 +19,16 @@ title: Home
     - Devops
         - Setup and maintenance of EC2 ubuntu instances running a Next.JS stack for internal dashboards/tooling
         - Setup and maintenance of build pipelines for devs to easily contribute to the Next.JS stack
+    - Technical Project Management
+        - Oversaw a team of developers who maintained business tools, and made sure they committed clean, readable, and tested code
+        - Oversaw and executed production deployments
 - Woolpert Digital Innovations (2023-Present)
     - Front End
         - Various React Native development
     - Design
         - Various mock ups
-            - [Google Vertex Search for AI](https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/)
+            - [Google Vertex Search for Retail](https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/)
             - Unnannounced projects
             
+# Contact
+zacharym123{at}gmail{dot}com
