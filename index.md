@@ -21,6 +21,7 @@ title: Home
     - Expo
     - Storybook
     - Jest
+    - Light SQL
 
 # Projects
 - [Tournamentor](http://github.com/zak123/tournamentor)
