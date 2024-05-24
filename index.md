@@ -3,6 +3,25 @@ layout: default
 title: Home
 ---
 
+# Skills
+- Languages 
+    - React
+    - React Native
+    - Javascript
+    - Objective-C
+    - Kotlin
+    - Python
+    - HTML/CSS
+    - .NET/C#
+- Devops
+    - Jenkins/Github/Bitbucket/Gitlab pipelines
+    - AWS EC2 NodeJS Box Setup
+- Misc
+    - GraphQL
+    - Expo
+    - Storybook
+    - Jest
+
 # Projects
 - [Tournamentor](http://github.com/zak123/tournamentor)
     - iOS client for challonge.com
