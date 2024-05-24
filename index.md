@@ -25,6 +25,8 @@ title: Home
 # Projects
 - [Tournamentor](http://github.com/zak123/tournamentor)
     - iOS client for challonge.com
+- [Netflix Bot (offline)](https://x.com/netflix_bot)
+    - Netflix Instant Watch release scraper -> Tweeter
 
 # Employment
 - Suited Connector (2013-2023)
