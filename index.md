@@ -21,6 +21,7 @@ title: Home
     - Expo
     - Storybook
     - Jest
+    - Next.js
     - Light SQL
 
 # Projects
