@@ -26,6 +26,7 @@ title: Home
 
 # Projects
 - [DeadlockDraft](http://deadlockdraft.com)
+    - Drafting tool for competitive game
 - [Tournamentor](http://github.com/zak123/tournamentor)
     - iOS client for challonge.com
 - [Netflix Bot (offline)](https://x.com/netflix_bot)
