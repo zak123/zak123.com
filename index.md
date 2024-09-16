@@ -21,10 +21,11 @@ title: Home
     - Expo
     - Storybook
     - Jest
-    - Next.js
+    - Next.jszz
     - Light SQL
 
 # Projects
+- [DeadlockDraft](http://deadlockdraft.com)
 - [Tournamentor](http://github.com/zak123/tournamentor)
     - iOS client for challonge.com
 - [Netflix Bot (offline)](https://x.com/netflix_bot)
