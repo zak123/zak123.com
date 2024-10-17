@@ -24,7 +24,7 @@ title: Home
     - Next.js
     - Light SQL
 
-# Projects
+# Personal Projects
 - [DeadlockDraft](http://deadlockdraft.com)
     - Drafting tool for competitive game
 - [Tournamentor](http://github.com/zak123/tournamentor)
