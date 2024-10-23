@@ -52,7 +52,7 @@ title: Home
         - Various React Native development
     - Design
         - Various mock ups
-            - [Google Vertex Search for Retail](https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/)
+            - [Google Vertex Search for Retail]([https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/](https://web.archive.org/web/20240518040611/https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/))
             - Unnannounced projects
             
 # Contact
