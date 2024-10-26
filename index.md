@@ -4,10 +4,12 @@ title: Home
 ---
 
 # Skills
-- Languages 
+- Languages/Frameworks
+    - Javascript
     - React
     - React Native
-    - Javascript
+    - Jest
+    - Next.js
     - Objective-C
     - Kotlin
     - Python
@@ -20,8 +22,6 @@ title: Home
     - GraphQL
     - Expo
     - Storybook
-    - Jest
-    - Next.js
     - Light SQL
 
 # Personal Projects
