@@ -56,4 +56,4 @@ title: Home
             - Unnannounced projects
             
 # Contact
-zacharym123{at}gmail{dot}com
+zak{@}zak123{dot}com
