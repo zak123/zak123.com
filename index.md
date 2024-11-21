@@ -5,7 +5,7 @@ title: Home
 
 # Skills
 - Languages/Frameworks
-    - Javascript
+    - Javascript/Typescript
     - React
     - React Native
     - Jest
