@@ -50,13 +50,18 @@ title: Home
   - Technical Project Management
     - Oversaw a team of developers who maintained business tools, and made sure they committed clean, readable, and tested code
     - Oversaw and executed production deployments
-- Woolpert Digital Innovations (2023-Present) - Front End - Various React Native development - Design - Various mock ups - [Google Vertex Search for Retail](https://web.archive.org/web/20240518040611/https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/)
-  <br />
-  <video width="320" height="240" controls>
-  <source src="woolpert.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-  </video>
-  <br /> 
+- Woolpert Digital Innovations (2023-Present)
+  - Front End
+    - Various React Native development
+    - Design
+    - Various mock ups
+    - [Google Vertex Search for Retail](https://web.archive.org/web/20240518040611/https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/)
+    <br />
+    <video width="420" height="340" controls>
+    <source src="woolpert.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+    <br />
   - Unnannounced projects
 
 # Contact
