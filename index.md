@@ -53,7 +53,6 @@ title: Home
 - Woolpert Digital Innovations (2023-Present)
   - Front End
     - Integrated Google's NavSDK into a large scale React Native application
-      - Custom Bottom Sheet and UI components for NavSDK UX
     - [Google Vertex Search for Retail](https://web.archive.org/web/20240518040611/https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/)
     <video width="420" height="340" controls>
     <source src="woolpert.mp4" type="video/mp4">
