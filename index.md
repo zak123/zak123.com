@@ -50,7 +50,7 @@ title: Home
   - Technical Project Management
     - Oversaw a team of developers who maintained business tools, and made sure they committed clean, readable, and tested code
     - Oversaw and executed production deployments
-- Woolpert Digital Innovations (2023-Present)
+- Woolpert Digital Innovations (2023-2024)
   - Front End
     - Integrated Google's NavSDK into a large scale React Native application
     - [Google Vertex Search for Retail](https://web.archive.org/web/20240518040611/https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/)
