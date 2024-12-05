@@ -52,17 +52,17 @@ title: Home
     - Oversaw and executed production deployments
 - Woolpert Digital Innovations (2023-2024)
   - Front End
-    - Integrated Google's NavSDK into a large scale React Native application
+    - Integrated Google's NavSDK into a fortune 300 transportation companies React Native application
     - [Google Vertex Search for Retail](https://web.archive.org/web/20240518040611/https://mapsplatform.google.com/resources/blog/convert-online-shoppers-to-in-store-or-curbside-pickup-customers-using/)
-    <video width="420" height="340" controls>
-    <source src="woolpert.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+<video width="420" height="340" controls>
+<source src="woolpert.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
     - T-Mobile 'Coverage along Route' Working Prototype
-    <video width="420" height="340" controls>
-    <source src="tmobile.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-    </video>
+<video width="420" height="340" controls>
+<source src="tmobile.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 # Contact
 
