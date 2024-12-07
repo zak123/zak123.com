@@ -45,7 +45,7 @@ title: Home
     - 6 user facing Objective-C iOS apps
       - Various mortgage calculators and tools for prospective home buyers
   - Back End
-    - Custom GraphQL API to serve the analytics dashboard
+    - Custom GraphQL API to serve analytics dashboards
     - .NET Backend for RealEstateLead.com and MortgageLead.com
   - Devops
     - Setup and maintenance of EC2 ubuntu instances running a Next.JS stack for internal dashboards/tooling
