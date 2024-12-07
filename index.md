@@ -57,7 +57,7 @@ title: Home
   - Front End
     - Integrated Google's NavSDK into a fortune 300 transportation companies React Native application
     - [Google Vertex Search for Retail](/woolpert.mp4)
-    - [T-Mobile 'Coverage along Route' Working Prototype](/tmobile.mp4)
+    - [T-Mobile 'Coverage along Route' Prototype](/tmobile.mp4)
 
 # Contact
 
