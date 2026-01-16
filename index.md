@@ -58,6 +58,16 @@ title: Home
     - Integrated Google's NavSDK into a fortune 300 transportation companies React Native application
     - [Google Vertex Search for Retail](/woolpert.mp4)
     - [T-Mobile 'Coverage along Route' Prototype](/tmobile.mp4)
+- American Health Marketplace (2024-2026)
+  - Front End
+    - Designed and developed AHM's user facing mobile/web app as the only member of the Mobile App team
+    - One Expo codebase that exported into iOS/Android/Web projects
+    - Made large contributions to AHM's in house CRM, helping with design and iterating on feedback from employees who use it
+  - Back End
+    - Setup, deployed, and maintained an account system for AHM's user facing mobile app using AWS Cognito for auth
+    - Setup, deployed, and maintained all app related backend endpoints
+    - Integrated with the existing referral system the company used
+    - Migrated their CMS from Wordpress to Hubspot
 
 # Contact
 
